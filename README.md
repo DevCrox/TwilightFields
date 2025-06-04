@@ -16,7 +16,7 @@ A 2D action-adventure and chilling game built with Pygame where players explore 
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd TwilightFields
+cd TwilightFields-main
 ```
 
 2. Install dependencies:
