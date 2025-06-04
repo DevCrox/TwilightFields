@@ -1,0 +1,2 @@
+Red Flowers =  self.image = self.game.terrain_spritesheet.get_sprite(128, 352, self.width, self.height)
+Sand = self.image = self.game.terrain_spritesheet.get_sprite(600, 352, self.width, self.height)
